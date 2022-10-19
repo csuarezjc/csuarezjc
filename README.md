@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csuarezjc
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning NodeJS, ReactJS and others.
+- 🌱 I’m currently learning NodeJS, VueJS, ReactJS and others.
 - 💞️ I’m looking to collaborate on innovative projects.
 - 📫 How to reach me by email csuarezjc@gmail.com
 
